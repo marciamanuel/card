@@ -1,0 +1,36 @@
+
+h5{
+    color: #005BC4;
+    font-family: 'Archivo black';
+    font-size: 30px;
+}
+
+
+.btn {
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+   
+    padding-left: 15px;
+    padding-right: 15px;
+    background: #3055A5;
+ font-size: 14px;
+    border: black;
+}
+
+.btn:hover{
+    background: #F59718;
+}
+
+.card{
+    height: 650px;
+}
+.b{
+   color: #005BC4; 
+}
+
+.text{
+    color: rgba(110, 109, 109, 0.877);
+}
